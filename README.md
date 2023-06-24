@@ -1,16 +1,24 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**GaldiLuna/galdiluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Meu nome é <strong>Frederico</strong>.<br>
+  Sou estudante de Ciências da Computação e Bacharel em Direito.
+  </p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💼  AWS Cloud Data Engineer Intern at <strong>compass.uol</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💌 ⤵️
+</p>
+
+<p align="left">
+  
+  <a href="mailto:galdiluna@outlook.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/Outlook-6AA84F?style=for-the-badge&logo=outlook&logoColor=white"/></a>
+
+  <a href="https://www.linkedin.com/in/frederico-luna/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+[![card](https://github-readme-stats.vercel.app/api?username=GaldiLuna&theme=tokyonight&show_icons=true)](https://github.com/GaldiLuna/github-readme-stats)

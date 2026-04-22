@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Meu nome é <strong>Frederico</strong>.<br>
-  Sou estudante de Ciências da Computação e Bacharel em Direito.
+  Bacharel em Ciências da Computação e Bacharel em Direito.
   </p>
 
 <p align="left">
-  💼  AWS Cloud Data Engineer Intern at <strong>compass.uol</strong>
+  💼  Analista de Ti <strong>Brasil</strong>
 </p>
 
 <p align="left">
